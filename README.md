@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/qbk955/leetcoode-training/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/qbk955/leetcoode-training/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/qbk955/leetcoode-training/tree/master/0197-rising-temperature) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/qbk955/leetcoode-training/tree/master/0198-house-robber) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/qbk955/leetcoode-training/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
