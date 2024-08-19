@@ -22,10 +22,15 @@ A collection of LeetCode questions to improve my skills! - Created using [LeetHu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/qbk955/leetcoode-training/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/qbk955/leetcoode-training/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/qbk955/leetcoode-training/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/qbk955/leetcoode-training/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->lection of LeetCode questions to improve my skills! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
