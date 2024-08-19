@@ -18,12 +18,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/qbk955/leetcoode-training/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/qbk955/leetcoode-training/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/qbk955/leetcoode-training/tree/master/0596-classes-more-than-5-students) |
-## Array
-|  |
-| ------- |
-| [0198-house-robber](https://github.com/qbk955/leetcoode-training/tree/master/0198-house-robber) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0198-house-robber](https://github.com/qbk955/leetcoode-training/tree/master/0198-house-robber) |
-<!---LeetCode Topics End-->
